@@ -1,3 +1,12 @@
 # Trabalho_ADM
-Trabalho feito na Proz Educação em conjunto da turma de Administração.
-Trabalho feito por: Carlos, Marcus, Pedro e Ramon.
+<!--Trabalho feito na Proz Educação em conjunto da turma de Administração.
+Trabalho feito por: Carlos, Marcus, Pedro e Ramon.-->
+<html>
+  <body>
+    <h1>Trabalhos</h1>
+    <a href="FormularioDeCandidatura/Formulario.html"><button>Formulario de Candidatura</button></a>
+        <a href="Descrição de cargo/pesquisa_salarial.html">Descrição de Cargo<button></button></a>
+        <a href="Caixas de Seleção/caixas.html"><button>Caixa de Seleção</button></a>
+    <a href="Benefícios Contratação/Beneficios.html"><button>Beneficios Contratação</button></a>
+  </body>
+</html>
