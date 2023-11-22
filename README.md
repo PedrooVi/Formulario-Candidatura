@@ -1,9 +1,9 @@
 # Trabalho_ADM
-<!--Trabalho feito na Proz Educação em conjunto da turma de Administração.
-Trabalho feito por: Carlos, Marcus, Pedro e Ramon.-->
+
 <html>
   <body>
-    <h1>Trabalhos</h1>
+    <h3>Trabalho feito na Proz Educação em conjunto da turma de Administração.
+Trabalho feito por: Carlos, Marcus, Pedro e Ramon.</h3>
     <br><br>
     <a href="FormularioDeCandidatura/Formulario.html"><button>Formulario de Candidatura</button></a>
     <br><br>
