@@ -1,0 +1,48 @@
+html{
+    padding-left: 32%;
+    background-color: azure;
+    font-size: 13pt ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.pag{
+    border: solid white;
+    border-width: 500px;
+}
+.checkbox{
+    list-style: none; 
+}
+.t{
+    padding-left: 10PX;
+}
+checkbox{
+    height: 25px;
+}
+.sal{
+    margin: 10px;
+    align-items: center;
+    display: flex;
+}
+.group {
+    width: 50%;
+    margin: 10px;
+    background-color: white;
+   
+}
+legend{
+   text-align: center ; 
+}
+.enviar{
+    margin: 10px;
+
+}
+.bot{
+    background-color: purple;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: white;
+    width: 25%;
+    height: 25px;
+    cursor: pointer;
+
+}
