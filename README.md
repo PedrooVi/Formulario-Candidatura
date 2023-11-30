@@ -5,12 +5,7 @@
     <h3>Trabalho feito na Proz Educação em conjunto da turma de Administração.
 Trabalho feito por: Carlos, Marcus, Pedro e Ramon.</h3>
     <br><br>
-    <a href="FormularioDeCandidatura/Formulario.html"><button>Formulario de Candidatura</button></a>
-    <br><br>
-        <a href="Descrição de cargo/pesquisa_salarial.html">Descrição de Cargo<button></button></a>
-    <br><br>
-        <a href="Caixas de Seleção/caixas.html"><button>Caixa de Seleção</button></a>
-    <br><br>
-    <a href="Benefícios Contratação/Beneficios.html"><button>Beneficios Contratação</button></a>
+    Quando baixar a pasta, abra esse arquivo.
+<a href="menu-ativAdm/index.html></a>
   </body>
 </html>
