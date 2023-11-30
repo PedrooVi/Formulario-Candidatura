@@ -1,0 +1,51 @@
+html{
+    padding-left: 32%;
+    background-color: azure;
+    font-size: 13pt ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.pag{
+    border: solid white;
+    border-width: 500px;
+}
+.checkbox{
+    list-style: none; 
+}
+.t{
+    padding-left: 10PX;
+}
+checkbox{
+    height: 25px;
+}
+.sal{
+    margin: 10px;
+    align-items: center;
+    display: flex;
+}
+.group {
+    width: 50%;
+    margin: 10px;
+    background-color: white;
+   
+}
+legend{
+   text-align: center ; 
+}
+.enviar{
+    margin: 10px;
+
+}
+#botoes{
+    border-style: none;
+    color: white;
+    background-color: purple;
+    border-width: 250px;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: large;    
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 15px;
+}
