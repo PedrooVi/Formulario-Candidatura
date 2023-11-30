@@ -1,0 +1,55 @@
+html{
+background-color: white;
+}
+header{
+    background-color: purple;
+    color: white;
+    /*height: 70px;*/
+    margin-top: -50px;
+
+}
+.container{
+    display: grid;
+    grid-template-columns:auto auto;
+    gap: 20px;
+}
+.part{
+    text-align: center;
+    align-items: center;
+}
+#vamos{
+    border-style: none;
+    color: white;
+    background-color: purple;
+    border-width: 250px;
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: large;    
+    cursor: pointer;
+    font-weight: bold;
+}
+#pessoass{
+    width: 700px;
+    border-style: none;
+    border-radius: 10px;
+}
+#desejo{
+    font-size: x-large;
+    font-weight: bold;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fic{
+    font-size: smaller;
+    text-align:end;
+}
+#folhas{
+    width: 350px;
+    border-style: none;
+    border-radius: 10px;
+}
+#cadastro1{
+    font-size: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+}
