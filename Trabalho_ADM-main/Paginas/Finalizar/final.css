@@ -1,0 +1,19 @@
+html{
+    margin: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    background-color: azure;
+    text-align: center;
+}
+#vamos{
+    border-style: none;
+    color: white;
+    background-color: purple;
+    border-width: 250px;
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: large;    
+    cursor: pointer;
+    font-weight: bold;
+}
