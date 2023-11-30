@@ -63,8 +63,8 @@ label{
 
 footer{
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    font-weight: bold;
+    color: black;
     margin-top: 20px;
-    width: 69%;
-    background-color: purple
+    padding: 2px;
 }
