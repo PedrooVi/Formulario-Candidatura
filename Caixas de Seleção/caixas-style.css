@@ -46,3 +46,16 @@ th{
     font-weight: bold;
     color: rgb(136, 7, 136);
 }
+#botoes{
+    border-style: none;
+    color: white;
+    background-color: purple;
+    border-width: 250px;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: large;    
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 15px;
+}
