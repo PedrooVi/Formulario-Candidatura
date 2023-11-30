@@ -1,0 +1,70 @@
+html{
+    background-color: rgb(204, 240, 240);
+    justify-content: center;
+    align-items: center;
+    padding-left: 25%;
+}
+
+.container{
+    width: 650px;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px black;
+    background-color: azure;
+}
+
+header{
+    font-size: 18pt;
+    font-family: Arial, Helvetica, sans-serif;
+    color:purple;
+}   
+
+.formulario{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    font-weight: bold;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.textos{
+    width: 250px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+.selecao{
+    width: 150px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+.botoes{
+    width: 30%;
+    height: 30px;
+    background-color:purple ;
+    color: azure;
+    font-weight: bold;
+    border:none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+.foto{
+    font-size: 13pt;
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 20px;
+    width: 69%;
+    background-color: purple
+}
