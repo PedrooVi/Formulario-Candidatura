@@ -1,31 +1,35 @@
 html{
-    padding: 5%;
+    background-color: azure;
+    justify-content: center;
+    align-items: center;
+    padding-left: 25%;
 }
 
-#cabecalio{
-    display: flex;
-    align-items: center;
+.container{
+    width: 650px;
+    padding: 15px;
     justify-content: center;
+    align-items: center;
+    border: solid 2px black;
+}
+
+header{
+    font-size: 18pt;
+    font-family: Arial, Helvetica, sans-serif;
     color:purple;
-}
+}   
 
-h2{
-    font-size: 25pt;
+.formulario{
     font-family: Arial, Helvetica, sans-serif;
-}
-
-#formulario{
-    padding-left: 24%;
-    align-items: center;
-    justify-content: center;
-    font-family: Arial, Helvetica, sans-serif;
-    
 }
 
 label{
     font-weight: bold;
     font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+
 
 .textos{
     width: 250px;
@@ -42,12 +46,16 @@ label{
 }
 
 .botoes{
-    width: 150px;
+    width: 25%;
     height: 30px;
+    background-color:purple ;
+    color: azure;
+    font-weight: bold;
+    border:none;
     font-family: Arial, Helvetica, sans-serif;
     padding: 5px;
 }
 
-.numeros{
-    
+.foto{
+    font-size: 13pt;
 }
